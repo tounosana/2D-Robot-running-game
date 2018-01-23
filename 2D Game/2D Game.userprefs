@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ObstacleMake.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ButtonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObstacleMake.cs" Line="31" Column="1" />
+      <File FileName="Assets\Scripts\GameStageController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnergeShow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObstacleDelete.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OpeningAnimationEnd.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlatformData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ReGamePlay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ResultReGame.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
